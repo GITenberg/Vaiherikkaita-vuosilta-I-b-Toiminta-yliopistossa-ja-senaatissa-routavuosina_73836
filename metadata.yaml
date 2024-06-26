@@ -1,0 +1,29 @@
+_repo: Vaiherikkaita-vuosilta-I-b-Toiminta-yliopistossa-ja-senaatissa-routavuosina_73836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hjelt, Edv. (Edvard)
+    alias: Hjelt, Edvard Immanuel
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '49806'
+    url: http://www.gutenberg.org/2009/agents/49806
+    wikipedia: https://fi.wikipedia.org/wiki/Edvard_Hjelt
+description: ''
+gutenberg_issued: '2024-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73836'
+language: fi
+pgterms:marc905: 20240602233142hjelt
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vaiherikkaita vuosilta I : $b Toiminta yliopistossa ja senaatissa routavuosina'
+url: http://www.gutenberg.org/ebooks/73836
