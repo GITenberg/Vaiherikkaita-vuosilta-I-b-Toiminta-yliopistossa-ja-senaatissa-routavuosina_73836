@@ -1,5 +1,8 @@
 _repo: Vaiherikkaita-vuosilta-I-b-Toiminta-yliopistossa-ja-senaatissa-routavuosina_73836
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hjelt, Edv. (Edvard)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49806
     wikipedia: https://fi.wikipedia.org/wiki/Edvard_Hjelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73836#Vaiherikkaita-vuosilta-I-b-Toiminta-yliopistossa-ja-senaatissa-routavuosina
 gutenberg_issued: '2024-06-15'
 gutenberg_type: Text
 identifiers:
